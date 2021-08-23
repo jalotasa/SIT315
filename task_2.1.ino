@@ -1,6 +1,4 @@
-#define ledR 8
-#define ledG 7
-#define ledY 12
+
 int interrCount = 0;
  
 void setup() 
